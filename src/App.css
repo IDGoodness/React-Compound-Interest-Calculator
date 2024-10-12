@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com');
+
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.card-header {
+  background-color: #007bff;
+}
+
+.form-control, .form-select {
+  border-radius: 10px;
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+.card-footer {
+  background-color: #28a745;
+}
